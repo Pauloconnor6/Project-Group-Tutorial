@@ -2,6 +2,6 @@
 
 Group 05
 - Daire
-- Paul
+- Paul(gimp)
 - Ben
 - Matthew
